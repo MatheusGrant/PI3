@@ -1,3 +1,8 @@
 # PI3
 
-Participantes: Guilherme Galesso, Lucas Terto Menezes, Luiz Eduardo Silva Costa, Matheus Alarcon, Rodrigo Santana
+### Participantes: 
+- Guilherme Galesso Lunardi
+- Lucas Terto Menezes
+- Luiz Eduardo Silva Costa
+- Matheus Alves Alarcon
+- Rodrigo Correia de Santana
