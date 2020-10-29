@@ -1,0 +1,17 @@
+servlet\produto\ExcluirProduto.class
+dao\ProdutoDAO.class
+servlet\produto\AlterarProduto.class
+servlet\Cliente\AlterarCliente.class
+servlet\Cliente\ListaCliente.class
+servlet\produto\PesquisarProduto.class
+servlet\Cliente\CadastroCliente.class
+servlet\Cliente\ClienteServlet.class
+servlet\Cliente\ExcluirCliente.class
+servlet\produto\CadastroProduto.class
+entidade\Produto.class
+dao\ClienteDAO.class
+servlet\produto\ListaProduto.class
+Conexao\GerenciadorConexao.class
+servlet\Cliente\PesquisarCliente.class
+entidade\Cliente.class
+servlet\produto\ProdutoServlet.class
